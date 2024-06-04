@@ -1,6 +1,6 @@
 # Sohaila Esmat's GitHub Profile
 
-<img src="https://github.com/sohailaesmat14/sohailaesmat14/assets/170406386/9feb45c4-9b1f-4fcb-8219-0e46d32d3a79" alt="Profile Image" align="right" width="200" style="margin-left: 20px;">
+<img src="https://github.com/sohailaesmat14/sohailaesmat14/assets/170406386/9feb45c4-9b1f-4fcb-8219-0e46d32d3a79" alt="Profile Image" alt="Profile Image" align="right" width="300" style="margin-left: 20px;">
 
 Welcome to my GitHub profile! I'm Sohaila Esmat, a Computer Engineer with a passion for developing innovative hardware and software solutions. My expertise lies in designing and implementing efficient, real-time embedded systems that drive modern technology.
 
