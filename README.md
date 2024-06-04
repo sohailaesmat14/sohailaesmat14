@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm Sohaila Esmat, a Computer Engineer with a passion for developing innovative hardware and software solutions. My expertise lies in designing and implementing efficient, real-time embedded systems that drive modern technology.
 
-# About Me
+About Me
 
 I hold a strong background in embedded systems, with extensive experience in microcontroller programming, hardware interfacing, and system optimization. My projects often involve a mix of C/C++, Python, and various assembly languages, coupled with hands-on experience with development boards and electronic components.
 
