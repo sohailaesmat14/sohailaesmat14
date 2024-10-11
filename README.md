@@ -14,13 +14,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/sohailaesmat/) to lear
 
 ## Skills
 
--- **Backend Development (Node.js, Express.js)**
--- **RESTful API Design**
--- **Database Management (SQL, MongoDB)**
--- **JavaScript and Python**
--- **Version Control (Git)**
--- **Debugging and Code Optimization**
--- **Server-Side Logic and Performance Tuning**
+- **Backend Development (Node.js, Express.js)**
+- **RESTful API Design**
+- **Database Management (SQL, MongoDB)**
+- **JavaScript and Python**
+- **Version Control (Git)**
+- **Debugging and Code Optimization**
+- **Server-Side Logic and Performance Tuning**
 ## Contact
 
 Feel free to reach out to me for collaboration, questions, or just to connect!
