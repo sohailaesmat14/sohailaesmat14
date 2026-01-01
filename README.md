@@ -1,33 +1,37 @@
 # Sohaila Esmat's GitHub Profile
 
 <img src="https://github.com/sohailaesmat14/sohailaesmat14/assets/170406386/9feb45c4-9b1f-4fcb-8219-0e46d32d3a79" alt="Profile Image" alt="Profile Image" align="right" width="300" style="margin-left: 20px;">
+# Hi there, I'm Sohaila Esmat 👋
+### 🚀 .NET Full Stack Developer | ITI Scholar
 
-Welcome to my GitHub profile! I'm Sohaila Esmat, a Backend Developer with a passion for building scalable and efficient web applications. My expertise lies in designing and implementing robust backend systems that support seamless user experiences.
+I am a passionate Software Engineer currently enrolled in the **Information Technology Institute (ITI)** - Professional Development Track. My focus is on building scalable enterprise solutions using the **Microsoft Technology Stack**.
 
+Moving from general backend development, I have specialized in **.NET Core**, **Advanced SQL**, and **Dynamics CRM** to deliver robust business applications.
 
-**About ME**
+---
 
+### 🛠️ Tech Stack & Tools
 
-I'm currently focusing on backend development using JavaScript and Node.js, with a strong foundation in Python. My experience includes building APIs, managing databases, and optimizing server-side logic. I have a passion for creating efficient and maintainable code that powers modern web applications.
+* **Languages:** C#, TypeScript, JavaScript, SQL (T-SQL).
+* **Backend:** .NET Core, ASP.NET Web APIs, Entity Framework Core, LINQ.
+* **Frontend:** Angular, HTML5, CSS3, Bootstrap.
+* **Database:** Microsoft SQL Server (Design, Implementation, Performance Tuning).
+* **Enterprise:** Microsoft Dynamics 365 (CRM).
+* **Tools:** Git, Visual Studio, Postman.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/sohailaesmat/) to learn more about my journey and my shift to backend development.
+---
 
-## Skills
+### 🔭 Current Focus at ITI
 
-- **Backend Development (Node.js, Express.js)**
-- **RESTful API Design**
-- **Database Management (SQL, MongoDB)**
-- **JavaScript and Python**
-- **Version Control (Git)**
-- **Debugging and Code Optimization**
-- **Server-Side Logic and Performance Tuning**
-## Contact
+* Developing a comprehensive **Examination System** using Advanced SQL and C#.
+* Mastering **Object-Oriented Programming (OOP)** and **Design Patterns**.
+* Deep diving into **Dynamics CRM** customization and plugin development.
 
-Feel free to reach out to me for collaboration, questions, or just to connect!
+---
 
+### 📫 Connect with Me
 - **Email:** [sohailabs1410@gmail.com](mailto:sohailabs1410@gmail.com)
 - **LinkedIn:** [Sohaila Esmat](https://www.linkedin.com/in/sohailaesmat/)
-- **GitHub:** [Sohaila Esmat](https://github.com/sohailaesmat14)
 
 ---
 
