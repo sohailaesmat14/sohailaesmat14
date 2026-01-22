@@ -2,6 +2,8 @@
 
 ### 🚀 .NET Full Stack Developer | ITI Scholar
 
+![original-dd4133b41bcb1d2cef1679f2395ac06a](https://github.com/user-attachments/assets/303602ed-6f31-4dab-ad72-e14419113125)
+
 I am a passionate Software Engineer currently enrolled in the **Information Technology Institute (ITI)** - Professional Development Track. My focus is on building scalable enterprise solutions using the **Microsoft Technology Stack**.
 
 Moving from general backend development, I have specialized in **.NET Core**, **Advanced SQL**, and **Dynamics CRM** to deliver robust business applications.
