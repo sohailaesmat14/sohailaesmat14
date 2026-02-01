@@ -1,4 +1,4 @@
-# Sohaila Esmat's GitHub Profile
+# Sohaila Esmat
 
 ### 🚀 .NET Full Stack Developer | ITI Scholar
 
